@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+nav{
+  justify-content: center;
+  display: flex;
+
+}
+nav a{
+  background-color: gainsboro;
+  padding: 10px;
+}
+img{
+  margin: auto;
+  display: flex;
+  
+  
+}
+#featured-property p{
+  width: 800px;
+  margin: auto;
+  text-align: center;
+}
+figcaption{
+  text-align: center;
+}
+#details div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
+
+  
+  
